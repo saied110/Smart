@@ -61,7 +61,6 @@ F:\Asp.NetCore\24_Asp.NetCore_CMS_AdminPage\MyCms\MyCms.ViewModels\obj\Debug\net
 C:\Users\Saied110\Desktop\MyCms\MyCms.ViewModels\bin\Debug\netcoreapp2.1\MyCms.ViewModels.deps.json
 C:\Users\Saied110\Desktop\MyCms\MyCms.ViewModels\bin\Debug\netcoreapp2.1\MyCms.ViewModels.dll
 C:\Users\Saied110\Desktop\MyCms\MyCms.ViewModels\bin\Debug\netcoreapp2.1\MyCms.ViewModels.pdb
-C:\Users\Saied110\Desktop\MyCms\MyCms.ViewModels\obj\Debug\netcoreapp2.1\MyCms.ViewModels.csprojAssemblyReference.cache
 C:\Users\Saied110\Desktop\MyCms\MyCms.ViewModels\obj\Debug\netcoreapp2.1\MyCms.ViewModels.csproj.CoreCompileInputs.cache
 C:\Users\Saied110\Desktop\MyCms\MyCms.ViewModels\obj\Debug\netcoreapp2.1\MyCms.ViewModels.AssemblyInfoInputs.cache
 C:\Users\Saied110\Desktop\MyCms\MyCms.ViewModels\obj\Debug\netcoreapp2.1\MyCms.ViewModels.AssemblyInfo.cs

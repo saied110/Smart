@@ -44,7 +44,6 @@ F:\Asp.NetCore\24_Asp.NetCore_CMS_AdminPage\MyCms\MyCms.Utilities\obj\Debug\netc
 C:\Users\Saied110\Desktop\MyCms\MyCms.Utilities\bin\Debug\netcoreapp2.1\MyCms.Utilities.deps.json
 C:\Users\Saied110\Desktop\MyCms\MyCms.Utilities\bin\Debug\netcoreapp2.1\MyCms.Utilities.dll
 C:\Users\Saied110\Desktop\MyCms\MyCms.Utilities\bin\Debug\netcoreapp2.1\MyCms.Utilities.pdb
-C:\Users\Saied110\Desktop\MyCms\MyCms.Utilities\obj\Debug\netcoreapp2.1\MyCms.Utilities.csprojAssemblyReference.cache
 C:\Users\Saied110\Desktop\MyCms\MyCms.Utilities\obj\Debug\netcoreapp2.1\MyCms.Utilities.csproj.CoreCompileInputs.cache
 C:\Users\Saied110\Desktop\MyCms\MyCms.Utilities\obj\Debug\netcoreapp2.1\MyCms.Utilities.AssemblyInfoInputs.cache
 C:\Users\Saied110\Desktop\MyCms\MyCms.Utilities\obj\Debug\netcoreapp2.1\MyCms.Utilities.AssemblyInfo.cs

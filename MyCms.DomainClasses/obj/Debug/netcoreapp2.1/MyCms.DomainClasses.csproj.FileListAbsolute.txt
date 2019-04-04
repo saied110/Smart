@@ -69,7 +69,6 @@ F:\Asp.NetCore\24_Asp.NetCore_CMS_AdminPage\MyCms\MyCms.DomainClasses\obj\Debug\
 C:\Users\Saied110\Desktop\MyCms\MyCms.DomainClasses\bin\Debug\netcoreapp2.1\MyCms.DomainClasses.deps.json
 C:\Users\Saied110\Desktop\MyCms\MyCms.DomainClasses\bin\Debug\netcoreapp2.1\MyCms.DomainClasses.dll
 C:\Users\Saied110\Desktop\MyCms\MyCms.DomainClasses\bin\Debug\netcoreapp2.1\MyCms.DomainClasses.pdb
-C:\Users\Saied110\Desktop\MyCms\MyCms.DomainClasses\obj\Debug\netcoreapp2.1\MyCms.DomainClasses.csprojAssemblyReference.cache
 C:\Users\Saied110\Desktop\MyCms\MyCms.DomainClasses\obj\Debug\netcoreapp2.1\MyCms.DomainClasses.csproj.CoreCompileInputs.cache
 C:\Users\Saied110\Desktop\MyCms\MyCms.DomainClasses\obj\Debug\netcoreapp2.1\MyCms.DomainClasses.AssemblyInfoInputs.cache
 C:\Users\Saied110\Desktop\MyCms\MyCms.DomainClasses\obj\Debug\netcoreapp2.1\MyCms.DomainClasses.AssemblyInfo.cs
